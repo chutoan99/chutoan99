@@ -2,6 +2,8 @@
 
 I am a versatilist and easily adapt to different hats (Front End Developer 🌐, Back End  Developer 🌐, or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
+<div style={display:'flex';width:'100%'}></div>
+
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 
